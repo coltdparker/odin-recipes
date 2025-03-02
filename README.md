@@ -16,5 +16,5 @@ A place to store family recipes if you so desire.
 
 ## Contact
 Email: coltdparker@gmail.com  
-X: @coltdparker  
+X: [@coltdparker](https://x.com/coltdparker)  
 LinkedIn: [Colt Parker](https://www.linkedin.com/in/colt-parker-aa4850145/)  
