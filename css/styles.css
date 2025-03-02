@@ -1,0 +1,83 @@
+/* * {
+    color: purple;
+} */
+
+/* Class Selectors */
+/* Applies to all elements with the given class */
+
+div {
+    color: green;
+}
+
+.alert-text {
+    color:orange;
+}
+
+.alert-text-severe-alert {
+    color: red;  
+}
+
+/* ID Selectors */
+/* Similar to class selectors but they only apply to one and only one item */
+/* USE ID's SPARINGLY (if at all) */
+
+#title {
+    color: rgb(36, 36, 36);
+    background-color: lightblue;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+/* The Grouping Selector */
+
+.read {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+}
+
+.unread {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+}
+
+/* ... instead ...
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    // several unique declarations //
+}
+
+.unread {
+    // several unique declarations //
+}
+*/
+
+/* Chaining selectors */
+ /* subsection and header are two different classes that are being chained together */
+
+.subsection.header {
+    color: rgb(36, 36, 36);
+    background-color: rgb(218, 218, 218);
+    padding: 12px;
+    border-radius: 12px;
+}
+
+.subsection.list {
+    color: black;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
